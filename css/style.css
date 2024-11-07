@@ -1,0 +1,29 @@
+
+
+:root{
+    --primary-color:#000;
+    --secondary-color:gray;
+
+}
+
+/* mobile css start here  */
+.common-wrap{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+/* mobile css end here  */
+
+
+
+
+/* desktop css start here  */
+
+.common-wrap{
+    width: 1140;
+    margin: 0 auto;
+    padding: 0 80px;
+}
+
+/* desktop css end here  */
